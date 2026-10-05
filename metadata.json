@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets Terminal",
+  "description": "High-density institutional market overview terminal with live benchmarks, interactive technical charts, asset class exploration, and economic calendars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
